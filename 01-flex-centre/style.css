@@ -1,0 +1,19 @@
+body{
+    height: 100%;
+}
+.blue-container{
+    height: 100vh;
+    background-color: #3590FF;
+    border: 8px solid #191A70;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.red-container{
+    text-align: center;
+    font-size: 60px;
+    width: 50%;
+    height: 50%;
+    background-color: #DB7093;
+    border: 10px solid #800000;
+}
