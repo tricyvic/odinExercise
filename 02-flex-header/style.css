@@ -1,0 +1,24 @@
+/* color-#FDEFD5  , #F66348 ,   #1D00EE */
+
+ul{
+    list-style: none;
+    background-color: #FDEFD5 ;
+    width: 100%;
+    display: flex;
+    padding: 12px;
+    gap: 8px;
+}
+ul > li{
+    color: #1D00EE;
+    text-align: center;
+    flex: 0;
+    background-color: #FFFF;
+    padding-top: 2px;
+    
+}
+
+ul .logo{
+    flex: 1;
+    font-size: 20px;
+    color: #F66348;
+}
