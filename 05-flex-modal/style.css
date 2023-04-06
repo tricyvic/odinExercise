@@ -1,0 +1,32 @@
+body{
+    background-color: #AAAAAA;
+}
+.modal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.text{
+    height: auto;
+    width: 60%; 
+    padding: 15px;
+    background-color: white;
+    border-radius: 5%;
+}
+.text{   
+    display: flex;
+    align-items: baseline;
+    gap: 25px;
+}
+
+button{
+    border: none;
+    border-radius: 12px;
+    height: 30px;
+}
+button.active{
+    background-color: blue;
+    color: whitesmoke;
+    
+}
